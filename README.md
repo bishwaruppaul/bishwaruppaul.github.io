@@ -1,2 +1,3 @@
 # bishwaruppaul.github.io
-Personall website of Dr. Bishwarup Paul
+
+This is my personal website, created using R Markdown in Rstudio.
