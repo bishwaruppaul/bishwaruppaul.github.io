@@ -1,0 +1,7 @@
+---
+title: "Blog posts"
+---
+
+----
+
+* **<a href="https://bishwaruppaul.blogspot.com/2020/04/easy-way-to-import-data-from.html" target="_blank">Easy way to import data from spreadsheet to R</a>** - a post describing a shorcut method to import data from spreadsheets into R, and describing when to use the shortcut compared to traditional methods.<br>

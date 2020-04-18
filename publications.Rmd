@@ -1,0 +1,36 @@
+---
+title: "Publications"
+---
+
+----
+
+## Published
+
+* **Paul, B.** & Annagiri, S. (2019). **Caught red-handed: Behaviour of brood thieves in an Indian ant**. *Journal of Experimental Biology*, 222, jeb193755. <a href='https://jeb.biologists.org/content/222/2/jeb193755' target='_blank'>[Link]</a>
+
+* **Paul, B.** & Annagiri, S. (2018). **Tricks of the trade: Mechanism of brood theft in an ant**. *PLoS ONE*, 13(2), e0192144. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192144' target='_blank'>[Link]</a>
+
+* Annagiri, S., Kolay, S., **Paul, B.** & Sona, C. (2017). **Network approach to understanding the organization of and the consequence of targeted leader removal on an end-oriented task**. *Current Zoology*, 63(3), 269-277. <a href='https://academic.oup.com/cz/article/63/3/269/3057023' target='_blank'>[Link]</a>
+
+* **Paul, B.**, Paul. M. & Annagiri, S. (2016). **Opportunistic brood theft in the context of colony relocation in an Indian queenless ant**. *Scientific Reports*, 6 (36166). <a href='https://www.nature.com/articles/srep36166' target='_blank'>[Link]</a>
+
+----
+
+## Unpublished
+
+* **Paul, B.** & Annagiri, S. **Achieving a balance between brood rescue and nest relocation on facing an emergency**. [Under review]
+
+* Mukherjee, I., **Paul, B.** & Annagiri, S. **Does Information of Target Nest Impact Relocation Dynamics in an Indian Ant**. [Under review]
+
+* **Paul, B.**, Murmu, S. & Annagiri, S. **Working and long term memory of nest location in the context of colony relocation in an ant**. [In preparation]
+
+* **Paul, B.**, Murmu, S. & Annagiri, S. **Reward reinforces formation of memory in ants rescuing brood**. [In preparation]
+
+----
+
+## Media coverage
+
+* Paul, B. & Annagiri, S. (2018): <a href='https://www.telegraphindia.com/states/west-bengal/tricks-amp-risks-of-thieving-ants/cid/1412016' target='_blank'>The Telegraph</a> | <a href='https://www.thehindu.com/sci-tech/science/the-tricks-of-thieving-ants/article22952945.ece' target='_blank'>The Hindu </a> | Mathrubhumi (<a href='https://english.mathrubhumi.com/technology/science/ants-and-the-science-of-theft-for-slavery-1.2667863' target='_blank'>English</a> & <a href='https://www.mathrubhumi.com/environment/biodiversity/ants-steal-ant-pupae-from-other-colonies-to-enslave-the-young-ones-for-work-study-1.2667772' target='_blank'>Malayalam</a>) | <a href='https://www.anandabazar.com/others/science/researchers-from-calcutta-have-shown-first-the-thieves-in-indian-ant-society-dgtlx-1.802867' target='_blank'>Anandabazar Patrika (Bengali)</a>
+
+* Paul, B., Paul, M. & Annagiri, S. (2016): <a href='https://researchmatters.in/article/scientists-study-kidnappers-ant-society' target='_blank'>Research Matters</a> | <a href='https://www.livemint.com/Sundayapp/gzW6cUolzPS88SGtBZN4GP/When-ant-enslaves-ant.html' target='_blank'>LiveMint</a>
+

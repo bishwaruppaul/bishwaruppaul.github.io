@@ -1,0 +1,26 @@
+name: "Personal Website"
+
+navbar:
+  title: "Bishwarup Paul"
+  
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Academic"
+      href: academic.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Contact"
+      href: contact.html
+    
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: style.css
+    includes:
+      after_body: footer.html
